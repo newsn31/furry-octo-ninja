@@ -8,14 +8,14 @@ This is going to be a code repository for working demos of websites I build.  Th
 something like this:
 
 user ---------> nginx ----------->
-                                      * Ruby on Rails on WebBrick using Watir/Cucumber/Rspec/SQLite3
-                                      * JEE on Apache Tomcat using Maven/Junit/Jenkins/Postgresql
-                                      * PHP CakePHP using MongoDB
-                                      * (Python using Django)
-                                      * (Node.js)
-                                      * HDFS, if there is enough RAM left
-                                      * a lot of front end stuff.
-                                      
+* Ruby on Rails on WebBrick using Watir/Cucumber/Rspec/SQLite3
+* JEE on Apache Tomcat using Maven/Junit/Jenkins/Postgresql
+* PHP CakePHP using MongoDB
+* (Python using Django)
+* (Node.js)
+* HDFS, if there is enough RAM left
+* a lot of front end stuff.
+ 
 
 
 That's a lot of stuff so it'll probably take me a couple months to 1-2 years to set up.  
