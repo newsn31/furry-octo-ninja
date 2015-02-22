@@ -7,11 +7,11 @@ This is going to be a code repository for working demos of websites I build.  Th
 
 something like this:
 
-
+user ---------> nginx ----------->
                                       * Ruby on Rails on WebBrick using Watir/Cucumber/Rspec/SQLite3
                                       * JEE on Apache Tomcat using Maven/Junit/Jenkins/Postgresql
                                       * PHP CakePHP using MongoDB
-user -----------> nginx------------>  * (Python using Django)
+                                      * (Python using Django)
                                       * (Node.js)
                                       * HDFS, if there is enough RAM left
                                       * a lot of front end stuff.
