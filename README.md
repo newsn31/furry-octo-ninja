@@ -1,2 +1,2 @@
 # furry-octo-ninja
-Experimental
+Experimental conglomerate website using several different platforms and languages on OpenShift.
